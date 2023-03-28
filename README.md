@@ -4,3 +4,6 @@ This is a 3D visual saliency dataset containing 540 view-dependent saliency maps
 [3D models](https://drive.google.com/file/d/1EDrzJaQQs6_oDR2GyMXUFMceOdSj3gn9/view?usp=sharing) - 180 3D meshes used to acquire the fixation maps.
 
 [2D views of 3D models](https://drive.google.com/file/d/1ZrvMnEIJ-yVzKKQZe7nksV4nraDP8JT8/view?usp=share_link) - 540 rendered 2D views of the 3D meshes. Each mesh has 3 views.
+
+[Viewpoints for generating the 2D views](https://drive.google.com/file/d/1FI19eqOlXFyELG9N9nC1vKQMKzRQU2sP/view?usp=sharing) - 180 files recording the viewpoints from which the 2D views of the 3D meshes are generated. Each file contains a 3x2 matrix and each row corresponds to a viewpiont represented in the form of (azimuth, elevation) in degrees.
+
